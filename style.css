@@ -4,7 +4,7 @@ body {
 	background-color: rgb(235, 225, 168);
 	background-position: top right;
 	background-repeat: repeat;
-	font: normal 21px "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+	font: normal 25px "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
 	padding: 0;
 	margin: 0;
 }		
@@ -14,9 +14,8 @@ abbr {
 }
 
 h3 {
-	font: bold 26px Georgia, "Times New Roman", Times, serif;
+	font: bold 28px Georgia, "Times New Roman", Times, serif;
 	color: #323b32;
-	background-image: url(bonsai.gif);
 	background-repeat: no-repeat;
 	padding-left: 28px;
 	height: 23px;
@@ -48,18 +47,18 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .sidebar a:link, .sidebar a:visited {
-	color: #FFFFFF;
+	color: rgb(121, 105, 105);
 	font-size: 12px;
 	font-style: normal;
 	text-decoration: none;
 	font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
-	text-shadow: 0 0 3px #000000;
+	text-shadow: 0 0 3px #e0b130;
 	font-weight: bold;
 	display: block;
 }
 
 .sidebar a:hover, .sidebar a:active {
-	color: #FFFFFF; 
+	color: rgb(68, 60, 23); 
 	font-size: 12px;
 	font-style: normal;
 	text-decoration: underline;

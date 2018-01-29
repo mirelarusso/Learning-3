@@ -1,8 +1,7 @@
 
 body {
-	color: rgb(10, 15, 10);
-	background-color: rgb(221, 165, 165);
-	background-image: url("http://idolza.com/a/f/c/creative-dark-or-light-wood-for-modern-floors-floor-scenic-engineered-and-cherry_imitation-wood-flooring_canopy-bed-accessories-modular-house-modern-home-library-office-color-idea.jpg");
+	color: rgb(92, 97, 92);
+	background-color: rgb(235, 225, 168);
 	background-position: top right;
 	background-repeat: repeat;
 	font: normal 21px "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
@@ -16,7 +15,7 @@ abbr {
 
 h3 {
 	font: bold 26px Georgia, "Times New Roman", Times, serif;
-	color: #003300;
+	color: #323b32;
 	background-image: url(bonsai.gif);
 	background-repeat: no-repeat;
 	padding-left: 28px;
@@ -60,7 +59,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .sidebar a:hover, .sidebar a:active {
-	color: #FFFFFF;
+	color: #FFFFFF; 
 	font-size: 12px;
 	font-style: normal;
 	text-decoration: underline;
